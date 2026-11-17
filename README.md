@@ -1,4 +1,4 @@
-Supporting material for Zhang et al., "Unlocking the climate benefits of renewables through flexible power exchange."
+Supporting material for Zhang et al., "Unlocking the climate benefits through more flexible interregional power dispatch."
 
 ## Overview
 

@@ -1,0 +1,5 @@
+Year,TypicalWeek,SourceWeek,SourceHourStart,SourceHourEnd,Weight_weeks
+2025,1,5,673,840,5
+2025,2,17,2689,2856,20
+2025,3,32,5209,5376,16
+2025,4,46,7561,7728,11.142857142857142
